@@ -1,13 +1,13 @@
 ## Hi there 👋
 ## It's me erwin
-**_i like cheese**_
+**_i like cheese_**
 [twitter](https://twitter.com)
 |Animals|Music|
 |-------|-----|
 
 <!--
 **TheEcMan/TheEcMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+c
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
